@@ -11,6 +11,14 @@ Eric Elliot is a well season programmer to say the least. He's contributed to so
 
 He helped me understand core concepts of FP along with useful patterns and I think every programmer out there should give it a read.
 
+## Functional programming
+
+Another very useful resource is this "Mostly adequate guide to functional programming" by _Professor Frisby_ which is written in JS. One could say that JS is not quite the right choice for a functional programming guide as it's not purely functional. And this is where this guide proves that theory wrong. Most devs already know JS and using it as a learning vector makes it easier to learn.
+
+[Mostly adequate guide to functional programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
+
+This book is super easy to read and full of jokes. Professor Frisby knows how to make difficult things a pleasure to read. He alsmo made [video courses on egghead.io](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript) which are really really nice to understand FP (in JS) with more code and a bit less theory.
+
 ## Ramda
 
 As a Javascript developer, Ramda quickly popped into the thinks I'd want to learn but I could not find a way to easily get started until I found a series of posts by Randy Coulman (which is also referenced by Ramda's documentation):
